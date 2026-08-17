@@ -9,5 +9,4 @@ A simple and responsive React To-Do List app
 
 ** clone the repository**
 
-git clone<cd "C:\Users\VIKAS\OneDrive\Documents\GitHub\React Assignment-1\vite-project"
->
+>C:\Users\VIKAS\OneDrive\Documents\GitHub\React Assignment-1
